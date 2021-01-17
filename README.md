@@ -1,7 +1,8 @@
 # xzaviard.github.io
 HackSoltice
 
-https://xzaviard.github.io/
+App: https://xzaviard.github.io/
+YouTube Promotional Video: https://youtu.be/LTWJeRq7FN8
 
 Powered by echoAR
 
