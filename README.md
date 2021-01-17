@@ -16,4 +16,5 @@ API Key for echoAR to view our holograms: jolly-bush-9124
 Here is our website to view the online tour: https://xzaviard.github.io/
 
 A project powered by echoAR and inspired by the F Book. 
+
 By Phuong Thao Phan, Xzaviar Day, John Poulos
